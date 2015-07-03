@@ -1,0 +1,112 @@
+{
+  "superClass": [
+    {
+      "classId": "1",
+      "className": "Mobile",
+      "classItems": [
+        {
+          "itemId": "1",
+          "itemName": "SonyExperia",
+          "itemImageName": "SonyExperia.jpg",
+          "itemPrice": "500",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "2",
+          "itemName": "Windows",
+          "itemImageName": "Windows.jpg",
+          "itemPrice": "400",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "3",
+          "itemName": "iphone",
+          "itemImageName": "iphone.jpg",
+          "itemPrice": "700",
+          "itemDiscount": "0"
+        }
+      ]
+    },
+    {
+      "classId": "2",
+      "className": "Watches",
+      "classItems": [
+        {
+          "itemId": "4",
+          "itemName": "Rolex",
+          "itemImageName": "Rolex.jpg",
+          "itemPrice": "535",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "5",
+          "itemName": "Fasttrack",
+          "itemImageName": "Fasttrack.jpg",
+          "itemPrice": "265",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "6",
+          "itemName": "Titan",
+          "itemImageName": "Titan.jpg",
+          "itemPrice": "500",
+          "itemDiscount": "0"
+        }
+      ]
+    },
+    {
+      "classId": "3",
+      "className": "Tables",
+      "classItems": [
+        {
+          "itemId": "7",
+          "itemName": "RoundTable",
+          "itemImageName": "RoundTable.jpg",
+          "itemPrice": "250",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "8",
+          "itemName": "DoublecolorTable",
+          "itemImageName": "DoublecolorTable.jpg",
+          "itemPrice": "320",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "9",
+          "itemName": "SofaTable",
+          "itemImageName": "SofaTable.jpg",
+          "itemPrice": "500",
+          "itemDiscount": "0"
+        }
+      ]
+    },
+    {
+      "classId": "4",
+      "className": "Kitchen",
+      "classItems": [
+        {
+          "itemId": "10",
+          "itemName": "KnifeSet",
+          "itemImageName": "KnifeSet.jpg",
+          "itemPrice": "150",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "11",
+          "itemName": "SpoonSet",
+          "itemImageName": "DoSpoonSetublecolorTable.jpg",
+          "itemPrice": "320",
+          "itemDiscount": "0"
+        },
+        {
+          "itemId": "12",
+          "itemName": "VegetableCutter",
+          "itemImageName": "VegetableCutter.jpg",
+          "itemPrice": "500",
+          "itemDiscount": "0"
+        }
+      ]
+    }
+  ]
+}
